@@ -1,4 +1,4 @@
-# Douban-movie
+# Douban-movie-vue
 
 基于vue-cli搭建的豆瓣电影Web单页应用
 
