@@ -17,8 +17,6 @@ npm run dev
 [微豆](http://vdo.ralfz.com/)
 
 
-> douban-movie-exercise
-
 ## Build Setup
 
 ``` bash
